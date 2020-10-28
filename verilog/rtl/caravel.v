@@ -12,7 +12,7 @@
 
 `timescale 1 ns / 1 ps
 
-`define USE_OPENRAM
+// `define USE_OPENRAM
 `define USE_POWER_PINS
 `define UNIT_DELAY #1
 
